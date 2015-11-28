@@ -1,0 +1,4 @@
+name: インスタグラムアイコン設置
+code: PoegoInstaIcon
+version: 0.0.1
+event: PoegoInstaIconEvent

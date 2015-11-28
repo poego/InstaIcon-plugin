@@ -1,0 +1,2 @@
+eccube.event.render.help_about.before:
+    - [onRenderProductsDetailBefore, NORMAL]
